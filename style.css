@@ -109,7 +109,7 @@ margin-bottom: 5px;
   background-repeat:repeat-y ;
   background-size: 100% 100%;
   background-attachment: fixed;
-  filter: brightness(3);
+  filter: brightness(5);
 }
 .history *{
   filter: brightness(0.7);
