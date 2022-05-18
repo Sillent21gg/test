@@ -112,7 +112,7 @@ margin-bottom: 5px;
   filter: brightness(5);
 }
 .history *{
-  filter: brightness(0.7);
+  filter: brightness(0.6);
 }
 .history__plot{
   
