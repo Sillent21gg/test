@@ -129,13 +129,13 @@ margin-bottom: 5px;
 text-align: center;
 margin-top: 30px;
 font-size: 4vw;
-font-weight: 700;
+font-weight: 800;
 }
 .history__pheader{
 text-align: center;
 margin-top: 30px;
 font-size: 3vw;
-font-weight: 700;
+font-weight: 800;
 }
 .history__img {
   width: 80%;
@@ -153,14 +153,14 @@ text-indent: 5vw;
 text-align:justify;
 margin-top: 20px;
 font-size: 2.2vw;
-font-weight: 600;
+font-weight: 700;
 }
 .history__text{
 text-indent: 5vw;
 text-align:justify;
 margin-top: 10px;
 font-size: 2.4vw;
-font-weight: 600;
+font-weight: 700;
 }
 
 /* -----------------------------------FOOTER------------------------------------------ */
